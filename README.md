@@ -69,12 +69,3 @@ This project simulates real-world fraud prevention systems used in fintech and a
 ### Admin
 - `GET /admin/risk/overview`
 - `GET /admin/security/logs`
-
----
-
-## ⚙️ Setup & Run Locally
-
-### 1) Clone the repository
-```bash
-git clone https://github.com/<your-username>/fraudshield-api.git
-cd fraudshield-api
